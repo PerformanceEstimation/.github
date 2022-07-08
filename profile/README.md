@@ -2,7 +2,7 @@
 
 This organization regroups works/packages/toolboxes related to performance estimation problems.
 
-If you find some content useful, please don't hesitate to give feedbacks/star the content!
+If you find some content useful, please don't hesitate to give feedbacks and or to star the content!
 
 ## Current packages
 - [**PESTO**](https://github.com/PerformanceEstimation/Performance-Estimation-Toolbox): allows a quick access to performance estimation problems in Matlab.
