@@ -14,3 +14,6 @@ If you want to get familiar with performance estimation problems for performing 
 
 An informal introduction can also be found in this [**blog post**](https://francisbach.com/computer-aided-analyses/).
 
+## Contribute
+
+If you have any feedback or other input, please don't hesitate to contribute by sharing it. We are happy to review any constructive pull request. In particular, if you find any example of application that you find relevant, don't hesitate to submit it as a new example within one of the toolboxes and/or to the [**learning performance estimation problems**](https://github.com/PerformanceEstimation/Learning-Performance-Estimation) repository.
