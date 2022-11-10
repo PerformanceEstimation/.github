@@ -8,11 +8,19 @@ If you find some content useful, please don't hesitate to give feedbacks and or 
 - [**PESTO**](https://github.com/PerformanceEstimation/Performance-Estimation-Toolbox): allows a quick access to performance estimation problems in Matlab.
 - [**PEPit**](https://github.com/PerformanceEstimation/PEPit): allows a quick access to performance estimation problems in Python.
 
-## Getting familiar with performance estimation problems
+## Education
 
-If you want to get familiar with performance estimation problems for performing quick worst-case analyses numerically, don't hesitate to visit [**learning performance estimation problems**](https://github.com/PerformanceEstimation/Learning-Performance-Estimation).
+- Informal introduction to PEPs: [**here**](https://francisbach.com/computer-aided-analyses/).
+- Practical exercises: [**here**](https://github.com/PerformanceEstimation/Learning-Performance-Estimation).
 
-An informal introduction can also be found in this [**blog post**](https://francisbach.com/computer-aided-analyses/).
+
+## Events
+
+If you organize a PEP-event, we would be happy to list your event below. 
+
+Upcoming events: 
+- February 2023: [**PEP-talks**](https://performanceestimation.github.io/PEP-talks/february_2023/).
+
 
 ## Contributing
 
