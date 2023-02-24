@@ -23,7 +23,7 @@ There are also related works on using performance estimation problems for findin
 
 If you organize a PEP-event, we would be happy to list your event below. 
 
-Upcoming events: 
+Past events: 
 - February 2023: [**PEP-talks**](https://performanceestimation.github.io/PEP-talks/february_2023/).
 
 
