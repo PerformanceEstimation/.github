@@ -9,8 +9,8 @@ If you find some content useful, please don't hesitate to give feedbacks and or 
 - [**PEPit**](https://github.com/PerformanceEstimation/PEPit): allows a quick access to performance estimation problems in Python.
 
 There are also related works on using performance estimation problems for finding Lyapunov (or potential, or energy) functions. Those techniques were not included in PESTO and PEPit yet (for structural reasons), which currently only allow to study pre-defined Lyapunov functions (as opposed to find them). Two of those works provide easy-to-use interfaces:
-- [linear convergence for smooth strongly convex problems](https://github.com/AdrienTaylor/quad-lyap-first-order),
-- [linear and sublinear convergence for splitting algorithms](https://github.com/ManuUpadhyaya/tight_lyapunov_analysis).
+- [Lyapunov functions for linear convergence of first-order methods for smooth strongly convex problems](https://github.com/AdrienTaylor/quad-lyap-first-order) (in Matlab),
+- [Lyapunov functions for splitting methods](https://github.com/ManuUpadhyaya/tight_lyapunov_analysis) (in Python).
 
 
 ## Education
